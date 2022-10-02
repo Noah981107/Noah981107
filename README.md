@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shgustmd6865@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nonoh_hs) 
 [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/shgustmd6865)
-<a href="https://velog.io/@dding_ji">
+<a href="https://velog.io/@noah981107">
     <img 
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@noah981107"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
